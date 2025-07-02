@@ -29,7 +29,6 @@ Our analysis of OpenSea NFT sales data from January 2019 to December 2021 reveal
 * **Explosive Market Growth in 2021:** The data clearly shows an exponential growth in both the number of sales and total revenue across almost all categories during 2020, peaking dramatically in 2021. This reflects the mainstream adoption and rapid expansion of the NFT market during this period. "Collectibles" and "Art" primarily drove the increase in sales volume, while "Uncategorized" and "Virtual Worlds" were key contributors to the overall revenue surge.
 
 ## Visualizations
-*## Visualizations
 Below are the key visualizations generated during this analysis, illustrating the findings discussed above.
 
 ### Number of NFT Sales by Category
